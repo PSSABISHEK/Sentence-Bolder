@@ -9,3 +9,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install python-docx
 ```
+
+### Setup
+
+Create two folder in the root directory:
+* InputFolder
+* OutputFolder
